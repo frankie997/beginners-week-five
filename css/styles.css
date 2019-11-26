@@ -5,3 +5,13 @@ body {
   padding: 3rem 1.5rem;
   text-align: center;
 }
+
+.col-sm img{
+  max-width: 350px
+}
+
+.carousel-item img{
+  max-width: 700px;
+  max-height: 500px;
+  
+}
